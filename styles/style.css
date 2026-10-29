@@ -9,7 +9,7 @@
 
 .header__logo {
   display: block;
-  width: 140px;
+  width: 64px;
 }
 
 .header__menu {
@@ -217,6 +217,10 @@
 
 .about__logo {
   width: 120px;
+}
+
+.about__content {
+  min-width: 0;
 }
 
 .about__heading {
