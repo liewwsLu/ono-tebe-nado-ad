@@ -15,7 +15,7 @@
 }
 
 .address__text {
-  line-height: 24px;
+  line-height: 1.33;
 }
 
 /* ---------- Шапка ---------- */
@@ -72,7 +72,7 @@
   z-index: 1;
   font-size: 100px;
   font-weight: bold;
-  line-height: 135px;
+  line-height: 1.35;
   text-transform: uppercase;
 }
 
@@ -183,7 +183,7 @@
   position: relative;
   z-index: 1;
   font-size: 22px;
-  line-height: 26px;
+  line-height: 1.18;
   text-decoration: underline;
   text-transform: uppercase;
 }
@@ -192,7 +192,7 @@
   position: relative;
   z-index: 1;
   font-size: 20px;
-  line-height: 24px;
+  line-height: 1.2;
 }
 
 .lots__look-more-link {
@@ -238,7 +238,7 @@
   gap: 24px;
   max-width: 690px;
   font-size: 20px;
-  line-height: 24px;
+  line-height: 1.2;
 }
 
 /* ---------- Подвал ---------- */
@@ -259,7 +259,7 @@
   align-items: center;
   list-style: none;
   font-size: 18px;
-  line-height: 21px;
+  line-height: 1.17;
 }
 
 .footer__menu-link_active {
